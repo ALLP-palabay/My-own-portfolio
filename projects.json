@@ -1,0 +1,25 @@
+{
+     "name": "Allyssa P. Palabay",
+     "course": "Bachelor of Scince in Information Technology",
+     "about": "I am a dedicated student passionate about learning and building creative projects. I enjoy developing skills in technology and design. This portfolio showcases my school achievements.",
+     "email": "prttyallyssa17@gmail.com",
+     "facebook": "https://facebook.com/allyssa.palabay.10",
+     "github": "https://github.com/ALLP.palabay",
+     "skills": [
+         "CSS",
+         "JavaScript",
+         "Communication",
+         "Teamwork",
+         "Problem Solving",
+         "Creativity",
+         "Time Management",
+         "Active Listening"
+     ],
+     "projects": [
+         {
+         "title": "📝 Research Paper",
+         "description": "Conducted research, gathered data, and wrote a complete academic paper on a chosen topic.",
+         "image": "images/project1.jpg"
+     }
+     ]
+ }
